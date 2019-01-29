@@ -1,0 +1,7 @@
+main.exe: main.cpp
+	cl /MD /EHsc /I.\sdl\include -O2 \
+		.\sdl\winlib15\sdl2.lib  \
+		.\sdl\winlib15\sdl2main.lib \
+		main.cpp \
+		/link /SUBSYSTEM:console msvcrt.lib
+	copy sdl\winlib15\*.dll . /y

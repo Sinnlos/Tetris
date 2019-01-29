@@ -1,0 +1,3 @@
+main: main.cpp
+	g++ -O2 -I./sdl/include -L./sdl/linlib -o main main.cpp -lm -lSDL2 -lpthread -ldl -lrt
+
