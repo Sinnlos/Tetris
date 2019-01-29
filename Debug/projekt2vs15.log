@@ -1,0 +1,50 @@
+﻿  main.cpp
+c:\users\lenovo\desktop\pr\tetris\main.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(108): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(109): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(107): warning C4101: 'x': unreferenced local variable
+c:\users\lenovo\desktop\pr\tetris\main.cpp(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(184): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(390): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(398): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(437): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(438): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(451): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(476): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(504): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\lenovo\desktop\pr\tetris\main.cpp(506): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(509): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\lenovo\desktop\pr\tetris\main.cpp(511): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(514): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\lenovo\desktop\pr\tetris\main.cpp(516): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(519): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\lenovo\desktop\pr\tetris\main.cpp(521): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(582): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lenovo\desktop\pr\tetris\main.cpp(706): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(709): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(712): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\lenovo\desktop\pr\tetris\main.cpp(732): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  projekt2vs15.vcxproj -> C:\Users\Lenovo\Desktop\pr\Tetris\Debug\projekt2vs15.exe
+  C:\Users\Lenovo\Desktop\pr\Tetris\sdl\winlib15\concrt140.dll
+  C:\Users\Lenovo\Desktop\pr\Tetris\sdl\winlib15\SDL2.dll
+  C:\Users\Lenovo\Desktop\pr\Tetris\sdl\winlib15\vccorlib140.dll
+  C:\Users\Lenovo\Desktop\pr\Tetris\sdl\winlib15\vcruntime140.dll
+          4 file(s) copied.
+  C:\Users\Lenovo\Desktop\pr\Tetris\cs8x8.bmp
+  C:\Users\Lenovo\Desktop\pr\Tetris\eti.bmp
+          2 file(s) copied.
